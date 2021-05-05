@@ -77,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1620201892521</updated>
-      <workItem from="1620201893744" duration="6416000" />
+      <workItem from="1620201893744" duration="8953000" />
     </task>
     <servers />
   </component>
@@ -85,29 +85,37 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="671" y="95" key="#com.intellij.ide.util.MemberChooser" timestamp="1620206794393">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2591" y="29" key="#com.intellij.ide.util.MemberChooser" timestamp="1620213202558">
+      <screen x="1920" y="-66" width="1920" height="1040" />
     </state>
     <state x="671" y="95" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-66.1920.1040@0.0.1920.1040" timestamp="1620206794393" />
-    <state width="1853" height="77" key="GridCell.Tab.0.bottom" timestamp="1620208340233">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="2591" y="29" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-66.1920.1040@1920.-66.1920.1040" timestamp="1620213202558" />
+    <state width="1853" height="26" key="GridCell.Tab.0.bottom" timestamp="1620213869387">
+      <screen x="1920" y="-66" width="1920" height="1040" />
     </state>
     <state width="1853" height="77" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-66.1920.1040@0.0.1920.1040" timestamp="1620208340233" />
-    <state width="1853" height="77" key="GridCell.Tab.0.center" timestamp="1620208340233">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1853" height="26" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-66.1920.1040@1920.-66.1920.1040" timestamp="1620213869387" />
+    <state width="1853" height="26" key="GridCell.Tab.0.center" timestamp="1620213869387">
+      <screen x="1920" y="-66" width="1920" height="1040" />
     </state>
     <state width="1853" height="77" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-66.1920.1040@0.0.1920.1040" timestamp="1620208340233" />
-    <state width="1853" height="77" key="GridCell.Tab.0.left" timestamp="1620208340233">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1853" height="26" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-66.1920.1040@1920.-66.1920.1040" timestamp="1620213869387" />
+    <state width="1853" height="26" key="GridCell.Tab.0.left" timestamp="1620213869387">
+      <screen x="1920" y="-66" width="1920" height="1040" />
     </state>
     <state width="1853" height="77" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-66.1920.1040@0.0.1920.1040" timestamp="1620208340233" />
-    <state width="1853" height="77" key="GridCell.Tab.0.right" timestamp="1620208340233">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state width="1853" height="26" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-66.1920.1040@1920.-66.1920.1040" timestamp="1620213869387" />
+    <state width="1853" height="26" key="GridCell.Tab.0.right" timestamp="1620213869387">
+      <screen x="1920" y="-66" width="1920" height="1040" />
     </state>
     <state width="1853" height="77" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-66.1920.1040@0.0.1920.1040" timestamp="1620208340233" />
-    <state x="544" y="114" width="832" height="812" key="find.popup" timestamp="1620207753750">
+    <state width="1853" height="26" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-66.1920.1040@1920.-66.1920.1040" timestamp="1620213869387" />
+    <state x="544" y="114" width="832" height="812" key="find.popup" timestamp="1620208898075">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="544" y="114" width="832" height="812" key="find.popup/0.0.1920.1040/1920.-66.1920.1040@0.0.1920.1040" timestamp="1620207753750" />
+    <state x="544" y="114" width="832" height="812" key="find.popup/0.0.1920.1040/1920.-66.1920.1040@0.0.1920.1040" timestamp="1620208898075" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Tic_Tac_Toe$GameMain.ic" NAME="GameMain Coverage Results" MODIFIED="1620213720569" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

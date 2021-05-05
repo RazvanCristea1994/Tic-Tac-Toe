@@ -6,6 +6,8 @@ public class Board {
     private Cell[][] cells;
     private int currentRow, currentCol;
 
+    private int emptyCellsNumber = 9;
+
     public Board() {
 
         this.cells = new Cell[ROWS][COLS];
@@ -27,14 +29,7 @@ public class Board {
 
     public boolean isDraw() {
 
-        for (int row = 0; row < ROWS; row++) {
-            for (int col = 0; col < COLS; col++) {
-                if (cells[row][col].getContent() == Seed.EMPTY) {
-                    return false;
-                }
-            }
-        }
-        return true;
+        return this.emptyCellsNumber == 0 ? true : false;
     }
 
     public boolean hasWon(Seed theSeed) {
@@ -85,5 +80,13 @@ public class Board {
 
     public void setCurrentCol(int currentCol) {
         this.currentCol = currentCol;
+    }
+
+    public int getEmptyCellsNumber() {
+        return emptyCellsNumber;
+    }
+
+    public void setEmptyCellsNumber(int emptyCellsNumber) {
+        this.emptyCellsNumber = emptyCellsNumber;
     }
 }

@@ -69,6 +69,7 @@ public class GameMain {
                 board.setCurrentRow(row);
                 board.setCurrentCol(col);
                 validInput = true;
+                board.setEmptyCellsNumber(board.getEmptyCellsNumber() - 1);
             } else {
                 System.out.println("This move at (" + (row + 1) + "," + (col + 1) + ") is not valid. Try again...");
             }
